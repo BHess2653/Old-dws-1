@@ -1,0 +1,49 @@
+h1 {
+	font-family: Georgia, Times, or serif;
+	text-shadow: 2px 2px #666666;
+}
+
+h2 {
+	font-family: Gill Sans, Arial, or sans-serif;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: Arial, Verdana, or sans-serif;
+}
+
+#intros {
+	font-weight: bold;
+}
+
+h1, h2, h3, a {
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 2.5em;
+	line-height: 1.4em;
+}
+
+h2 {
+	font-size: 0.9em;
+	line-height: 1.4em;
+}
+
+h3 {
+	font-size: 1.5em;
+	line-height: 1.4em;
+}
+
+#credits {
+	font-family: italic;
+	text-align: right;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
