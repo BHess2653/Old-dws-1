@@ -1,0 +1,118 @@
+/* CSS color */
+h1, h2 ,h3 {
+	text-shadow: 4px 4px #000000;
+}
+
+#contact {
+	color: white;
+}
+a:active {
+	background-color: red;
+}
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+
+body {
+	background-color: grey;
+	font-family: comic sans ms;
+	font-style: oblique;
+}
+
+h1, h2, h3, p  {
+	padding: 20px;
+	color: rgb(255, 255, 255);
+	background-color: rgba(219, 0, 0, 0.89);
+}
+ol,li {
+	list-style-type: disc;
+}
+#ol {
+	Color: black;
+	background-color: grey;
+	padding: 5px;
+}
+
+#cheese {
+	Color: yellow;
+	background-color: grey;
+	padding: 5px;
+}
+#Lettuce {
+	color: #6cb946;
+	background-color: grey;
+	padding: 5px;
+}
+#Tomato {
+	color: red;
+	background-color: grey;
+	padding: 5px;
+}
+#Pickles {
+	color: green;
+	background-color: grey;
+	padding: 5px;
+}
+#Onion {
+	color: tan;
+	background-color: grey;
+	padding: 5px;
+}
+#Ketchup {
+	color: red;
+	background-color: grey;
+	padding: 5px;
+}
+#Mustard {
+	color: #c2c03d;
+	background-color: grey;
+	padding: 5px;
+}
+#Bacon {
+	color: brown;
+	background-color: grey;
+	padding: 5px;
+}
+#Pineapple {
+	color: #fffd70;
+	background-color: grey;
+	padding: 5px;
+}
+
+#ice {
+	color: white;
+	padding: 5px;
+}
+#fry {
+	color: #dbb700;
+	padding: 5px;
+}
+
+#fig {
+	background-color: hsla(360, 100%, 51%, 0.5);
+	padding: 5px;	
+}
+
+
+
+
+/* Styling Text */
+
+
+
+
+
+/* Box Model */
+
+
+
+
