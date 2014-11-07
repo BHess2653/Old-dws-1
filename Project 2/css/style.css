@@ -1,6 +1,15 @@
-/* CSS color */
+
+div {
+	text-align: center;
+	width: 1000px;
+	height: 1000px;
+	margin: 5px auto 50px auto;
+	padding: 5px 50px 50px 50px;
+}
+
 h1, h2 ,h3 {
 	text-shadow: 4px 4px #000000;
+	box-shadow: 3px 3px #000;
 }
 
 #contact {
@@ -33,10 +42,9 @@ h1, h2, h3, p  {
 	color: rgb(255, 255, 255);
 	background-color: rgba(219, 0, 0, 0.89);
 }
-ol,li {
+ul {
+	list-style-position: inside;
 	list-style-type: disc;
-}
-#ol {
 	Color: black;
 	background-color: grey;
 	padding: 5px;
@@ -47,6 +55,13 @@ ol,li {
 	background-color: grey;
 	padding: 5px;
 }
+
+#cheese2 {
+	Color: yellow;
+	background-color: grey;
+	padding: 5px;
+}
+
 #Lettuce {
 	color: #6cb946;
 	background-color: grey;
@@ -88,30 +103,37 @@ ol,li {
 	padding: 5px;
 }
 
+#BwF, #SBB {
+	padding: 5px;
+	border: dotted #000;
+	margin: 10px 395px 10px;
+}
+
 #ice {
 	color: white;
 	padding: 5px;
+	border: dotted #000;
+	margin: 10px 395px 10px;
 }
 #fry {
 	color: #dbb700;
 	padding: 5px;
+	border: dotted #000;
+	margin: 10px 395px 10px;
 }
 
-#fig {
+#fig1, #fig2, #fig3 {
 	background-color: hsla(360, 100%, 51%, 0.5);
 	padding: 5px;	
+	box-shadow: 5px 5px #000;
+}
+
+li {
+	background-color: hsla(360, 100%, 51%, 0.5);
 }
 
 
 
-
-/* Styling Text */
-
-
-
-
-
-/* Box Model */
 
 
 
