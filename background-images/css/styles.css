@@ -46,7 +46,7 @@ a:hover, a#current-page {
 #page {
 	width: 960px;
 	
-	padding: 20px 20px 300px 20px;
+	padding: 20px 20px 750px 20px;
 	
 	border-top-style: double;
 	border-top-color: #000;
@@ -103,4 +103,44 @@ a:hover, a#current-page {
 	float: left;
 	padding: 10px;
 }
+
+#gallery-content {
+	width: 500px;
+	margin: 20px auto 20px;
+	overflow: hidden;
+}
+
+.entry {
+	font-size: 70%;
+	width: 220px;
+	height: 220px;
+	float: left;
+	padding: 10px;
+	background-image: url(images/shadow.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+figure {
+	width: 202px; 
+	height 193px;
+	margin: 0;
+	padding: 9px;
+	background-color: #e7e3d8;
+}
+
+figure img {
+	width: 200;
+	height: 150;
+	border: 1px solid #8c9c9e;
+}
+
+figcaption {
+	background-image: url(images/icon.png);
+	background-repeat: no-repeat;
+	padding-left: 25px;
+	padding-top: 5px;
+
+}
+
 
