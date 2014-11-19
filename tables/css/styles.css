@@ -1,0 +1,178 @@
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1.33em;
+}
+
+h3 {
+	font-size: 1.25em;
+}
+
+body {
+	font-size: 0.8em;
+	font-family: Arial, Verdana, sans-serif;
+	letter-spacing: 0.15em;	
+	background-color: #efefef;
+}
+		
+#navigation {
+	list-style-type: none;
+	text-align: center;
+}
+
+li {
+	margin: 0 3px 0;
+	display: inline;
+}
+
+#content {
+	width: 600px;
+	margin: 20px auto 20px;
+}
+	
+a {
+	color: #000000;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+	
+a:hover, a#current-page {
+	color: #cc3333;
+	background-color: #ffffff;
+}
+
+#page {
+	width: 960px;
+	
+	padding: 20px 20px 20px 20px;
+	
+	border-top-style: double;
+	border-top-color: #000;
+	border-top-width: 4px;
+	margin-top: 10px;
+	
+	border-bottom-style: double;
+	border-bottom-color: #000;
+	border-bottom-width: 4px;
+	margin-bottom: 10px;
+	
+	border-left-style: double;
+	border-left-color: #000;
+	border-left-width: 4px;
+	margin-left: auto;
+	
+	border-right-style: double;
+	border-right-color: #000;
+	border-right-width: 4px;
+	margin-right: auto;
+}
+
+
+#logo {
+	width: 303px;
+	
+	margin: 10px auto 25px;
+/* margin: top=10px right=auto left=auto bottom=25px */
+}
+
+#navigation {
+	width: 625px;
+	
+	padding: 15px;
+	
+	margin: 0 auto 0;
+	
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #000;
+	
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+}
+
+#front {
+	padding: 20px;
+	float: left;
+}
+
+#column1of2, #column2of2 {
+	width: 280px;
+	float: left;
+	padding: 10px;
+}
+
+#gallery-content {
+	width: 500px;
+	margin: 20px auto 20px;
+	overflow: auto;
+}
+
+.entry {
+	font-size: 70%;
+	width: 220px;
+	height: 220px;
+	float: left;
+	padding: 10px;
+	background-image: url(../images/shadow.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+figure {
+	width: 202px; 
+	height 193px;
+	margin: 0;
+	padding: 9px;
+	background-color: #e7e3d8;
+}
+
+figure img {
+	width: 200;
+	height: 150;
+	border: 1px solid #8c9c9e;
+}
+
+figcaption {
+	background-image: url(../images/icon.png);
+	background-repeat: no-repeat;
+	padding-left: 25px;
+	padding-top: 5px;
+
+}
+
+th {
+	text-align: left;
+}
+
+th, td {
+	padding: 5px 30px 5px 20px;
+	font-size: 0.9em;
+	margin: 0;
+	background-color: #cbd2d8;
+	border-top: 1px solid #f1f8fe;
+	border-bottom: 1px solid #cbd2d8;
+	border-right: 1px solid #cbd2d8;
+	text-shadow: 1px 1px 1px #ffffff;
+}
+
+td {
+	text-align: right;
+}
+
+
+.even {
+	background: #F1F8FE;
+}
+
+tr:hover {
+	background: #777
+}
+
+
+
+
+
+
