@@ -37,12 +37,14 @@ a {
 	text-transform: uppercase;
 	text-decoration: none;
 }
+
 	
 a:hover, a#current-page {
 	color: #cc3333;
 	background-color: #ffffff;
 }
 
+/* 
 #page {
 	width: 960px;
 	
@@ -93,6 +95,7 @@ a:hover, a#current-page {
 	border-bottom-color: #000;
 }
 
+ */
 #front {
 	padding: 20px;
 	float: left;
